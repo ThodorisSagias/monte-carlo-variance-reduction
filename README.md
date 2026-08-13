@@ -40,6 +40,7 @@ sampling noise.
 ## Results
 
 | Method | Price | Variance | Variance reduction | Gain at equal compute |
+|---|---|---|---|---|
 | Standard Monte Carlo | 9.9510 | 216.7461 | — | — |
 | Antithetic variates | 10.0101 | 58.3868 | 73.06% | 46.1% |
 | Control variates | 10.0457 | 6.4691 | 97.02% | 97.0% |
